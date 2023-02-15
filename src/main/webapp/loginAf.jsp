@@ -20,7 +20,7 @@
 		%>
 		<script type="text/javascript">
 		alert("환영! 환영! <%=mem.getId() %>친구! ");
-	//	location.href = " ";
+		location.href = "./bbslist.jsp";
 		</script>
 		<%
 	}else{
